@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Admin/Admin.iml" filepath="$PROJECT_DIR$/Admin/Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alerts/Alerts.iml" filepath="$PROJECT_DIR$/Alerts/Alerts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assessment/Assessment.iml" filepath="$PROJECT_DIR$/Assessment/Assessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Billing/Billing.iml" filepath="$PROJECT_DIR$/Billing/Billing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COE/COE.iml" filepath="$PROJECT_DIR$/COE/COE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CcoSched/CcoSched.iml" filepath="$PROJECT_DIR$/CcoSched/CcoSched.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clinical/Clinical.iml" filepath="$PROJECT_DIR$/Clinical/Clinical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClinicalAdmin/ClinicalAdmin.iml" filepath="$PROJECT_DIR$/ClinicalAdmin/ClinicalAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Core.iml" filepath="$PROJECT_DIR$/Core/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Correspondence/Correspondence.iml" filepath="$PROJECT_DIR$/Correspondence/Correspondence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DTOClients/DTOClients.iml" filepath="$PROJECT_DIR$/DTOClients/DTOClients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DTOScripts/DTOScripts.iml" filepath="$PROJECT_DIR$/DTOScripts/DTOScripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DomainObjects/DomainObjects.iml" filepath="$PROJECT_DIR$/DomainObjects/DomainObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EAS/EAS.iml" filepath="$PROJECT_DIR$/EAS/EAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Emergency/Emergency.iml" filepath="$PROJECT_DIR$/Emergency/Emergency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HL7Engine/HL7Engine.iml" filepath="$PROJECT_DIR$/HL7Engine/HL7Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HL7Nas/HL7Nas.iml" filepath="$PROJECT_DIR$/HL7Nas/HL7Nas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICP/ICP.iml" filepath="$PROJECT_DIR$/ICP/ICP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jobs/Jobs.iml" filepath="$PROJECT_DIR$/Jobs/Jobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NAES/NAES.iml" filepath="$PROJECT_DIR$/NAES/NAES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nursing/Nursing.iml" filepath="$PROJECT_DIR$/Nursing/Nursing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCRR/OCRR.iml" filepath="$PROJECT_DIR$/OCRR/OCRR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCS_IF/OCS_IF.iml" filepath="$PROJECT_DIR$/OCS_IF/OCS_IF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oncology/Oncology.iml" filepath="$PROJECT_DIR$/Oncology/Oncology.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PCI/PCI.iml" filepath="$PROJECT_DIR$/PCI/PCI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pathways/Pathways.iml" filepath="$PROJECT_DIR$/Pathways/Pathways.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RACPC/RACPC.iml" filepath="$PROJECT_DIR$/RACPC/RACPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefMan/RefMan.iml" filepath="$PROJECT_DIR$/RefMan/RefMan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rules/Rules.iml" filepath="$PROJECT_DIR$/Rules/Rules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scheduling/Scheduling.iml" filepath="$PROJECT_DIR$/Scheduling/Scheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpinalInjuries/SpinalInjuries.iml" filepath="$PROJECT_DIR$/SpinalInjuries/SpinalInjuries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Therapies/Therapies.iml" filepath="$PROJECT_DIR$/Therapies/Therapies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValueObjects/ValueObjects.iml" filepath="$PROJECT_DIR$/ValueObjects/ValueObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebApp/WebApp.iml" filepath="$PROJECT_DIR$/WebApp/WebApp.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="reports">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebApp/reports/ClinicListByLocation_scripts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/reports/Lab Weekly report_scripts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/reports/NAES_DATA_EXTRACT_templates.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/reports/SpireExtract.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/reports/NAES_DATA_EXTRACT_queries.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/reports/WaitingList_report.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/reports/Lab_Batch_Number_report.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/reports/LabBatchNumberReportNO_UDA.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

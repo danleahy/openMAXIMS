@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="applet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebApp/applet/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/applet/platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/applet/am_sdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/applet/scan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/applet/smartcard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/applet/medicode.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/applet/commons.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

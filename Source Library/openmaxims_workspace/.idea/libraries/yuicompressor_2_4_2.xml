@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yuicompressor-2.4.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebApp/jsCN/source/build/bin/yuicompressor-2.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

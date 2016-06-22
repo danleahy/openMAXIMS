@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="source">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebApp/jsCN/source/new-blue.css.sources.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WebApp/jsCN/source/sources.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
