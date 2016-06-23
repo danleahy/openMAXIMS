@@ -21,6 +21,45 @@
 
 	<import file="build_common.xml"/>
 
+ 	<target name="clean">
+        <delete dir="build"/>        
+		<delete dir="${workspace}Admin/bin" />		
+		<delete dir="${workspace}Alerts/bin" />		
+		<delete dir="${workspace}Assessment/bin" />
+		<delete dir="${workspace}Billing/bin" />
+		<delete dir="${workspace}CcoSched/bin" />		
+		<delete dir="${workspace}Clinical/bin" />
+		<delete dir="${workspace}ClinicalAdmin/bin" />		
+		<delete dir="${workspace}COE/bin" />
+		<delete dir="${workspace}Core/bin" />
+		<delete dir="${workspace}Correspondence/bin" />
+		<delete dir="${workspace}DomainObjects/bin" />
+		<delete dir="${workspace}DTOClients/bin" />		
+		<delete dir="${workspace}DTOScripts/bin" />		
+		<delete dir="${workspace}EAS/bin" />		
+		<delete dir="${workspace}Emergency/bin" />		
+		<delete dir="${workspace}HL7Engine/bin" />		
+		<delete dir="${workspace}HL7Nas/bin" />		
+		<delete dir="${workspace}ICP/bin" />		
+		<delete dir="${workspace}Jobs/bin" />		
+		<delete dir="${workspace}NAES/bin" />		
+		<delete dir="${workspace}Nursing/bin" />		
+		<delete dir="${workspace}OCRR/bin" />		
+		<delete dir="${workspace}OCS_IF/bin" />		
+		<delete dir="${workspace}Oncology/bin" />		
+		<delete dir="${workspace}out/bin" />		
+		<delete dir="${workspace}Pathways/bin" />		
+		<delete dir="${workspace}PCI/bin" />		
+		<delete dir="${workspace}RACPC/bin" />		
+		<delete dir="${workspace}RefMan/bin" />		
+		<delete dir="${workspace}Rules/bin" />	
+		<delete dir="${workspace}Scheduling/bin" />		
+		<delete dir="${workspace}SpinalInjuries/bin" />		
+		<delete dir="${workspace}Therapies/bin" />		
+		<delete dir="${workspace}ValueObjects/bin" />
+		<delete dir="${workspace}WebApp/WEB-INF/classes" />
+    </target>
+
 	<!-- Compile Rules -->
 	<target name="Rules" depends="Admin" >
 		<delete includeEmptyDirs="true" quiet="true">
