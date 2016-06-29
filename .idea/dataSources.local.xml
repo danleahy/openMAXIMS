@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="SQL Server (Microsoft) - maxims_uat@trilvmp03.ucd.ie" uuid="dff38ec4-e608-495b-bf81-03a2adbeb9c0">
+      <secret-storage>master_key</secret-storage>
+      <user-name>openmaxims</user-name>
+    </data-source>
+  </component>
+</project>

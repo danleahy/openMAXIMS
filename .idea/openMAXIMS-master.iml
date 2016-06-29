@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="Source Library:openmaxims_workspace:WebApp:WEB-INF:classes:console_hibernate.cfg.xml" />
+          <unit-entry name="Source Library:openmaxims_workspace:WebApp:WEB-INF:classes:hibernate.cfg.xml" />
+          <unit-entry name="Source Library:openmaxims_workspace:WebApp:src:console_hibernate.cfg.xml" />
+          <unit-entry name="Source Library:openmaxims_workspace:WebApp:src:hibernate.cfg.xml" />
+          <unit-entry name="Source Library:openmaxims_workspace:out:production:WebApp:console_hibernate.cfg.xml" />
+          <unit-entry name="Source Library:openmaxims_workspace:out:production:WebApp:hibernate.cfg.xml" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Source Library/openmaxims_workspace/WebApp/WEB-INF/classes/console_hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Source Library/openmaxims_workspace/WebApp/WEB-INF/classes/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Source Library/openmaxims_workspace/WebApp/src/console_hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Source Library/openmaxims_workspace/WebApp/src/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Source Library/openmaxims_workspace/out/production/WebApp/console_hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Source Library/openmaxims_workspace/out/production/WebApp/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/Source Library/openmaxims_workspace/WebApp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/Source Library/openmaxims_workspace/WebApp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
