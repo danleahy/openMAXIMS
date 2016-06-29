@@ -14,7 +14,7 @@
 	<!-- POINT TO YOUR SQL DB and ADMIN ACCOUNT -->
 	<property name="dbHost" value="trilvmp02.ucd.ie" />
 	<property name="dbPort" value="3306"/>
-	<property name="dbName" value="maximsuat" />
+	<property name="dbName" value="maxims_uat" />
 	<property name="userid" value="openmaxims"  />
 	<property name="password" value="openmaxims" />
 	<!-- ***************************************** -->
